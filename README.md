@@ -24,4 +24,5 @@ For this we need following
  ```
  
  ### Result Images
-  [alt text](r1.png)  
+  ![result 1](r1.png)
+  ![result 2](r2.png)
