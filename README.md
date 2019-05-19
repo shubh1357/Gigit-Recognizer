@@ -4,8 +4,7 @@
 This project is to detect handwritten digits from Minist Dataset and applying neural network model using Keras
 ## Table of Contents
   1. Basic installation
-  2. Minist Dataset sample
-  3. Result Images
+  2. Result Images
 ### Basic Installation:
 For this we need following
   1. pyhton3
@@ -23,6 +22,5 @@ For this we need following
  ```
  pip3 install keras
  ```
- ### Minist Dataset Sample
  
  ### Result Images
